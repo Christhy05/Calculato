@@ -1,0 +1,10 @@
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\bin\Debug\Calculator_AD.exe.config
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\bin\Debug\Calculator_AD.exe
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\bin\Debug\Calculator_AD.pdb
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.csproj.AssemblyReference.cache
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.Form1.resources
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.Properties.Resources.resources
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.csproj.GenerateResource.cache
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.csproj.CoreCompileInputs.cache
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.exe
+D:\TEC_Girl\first semester\C#\Practical\Calculator_AD\Calculator_AD\obj\Debug\Calculator_AD.pdb
